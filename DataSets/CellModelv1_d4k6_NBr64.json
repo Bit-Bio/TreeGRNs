@@ -1,0 +1,762 @@
+{
+    "grn": {
+        "data": [
+            [
+                "depth",
+                4
+            ]
+        ],
+        "directed": true,
+        "multigraph": false,
+        "elements": {
+            "nodes": [
+                {
+                    "data": {
+                        "depth": 0,
+                        "parents": [],
+                        "children": [
+                            1,
+                            2
+                        ],
+                        "field": 1,
+                        "id": "0",
+                        "value": 0,
+                        "name": "0"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 1,
+                        "parents": [
+                            0
+                        ],
+                        "children": [
+                            3,
+                            4
+                        ],
+                        "field": -0.5,
+                        "id": "1",
+                        "value": 1,
+                        "name": "1"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 1,
+                        "parents": [
+                            0
+                        ],
+                        "children": [
+                            5,
+                            6
+                        ],
+                        "field": -0.5,
+                        "id": "2",
+                        "value": 2,
+                        "name": "2"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 2,
+                        "parents": [
+                            1
+                        ],
+                        "children": [
+                            7,
+                            8
+                        ],
+                        "field": -0.5,
+                        "id": "3",
+                        "value": 3,
+                        "name": "3"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 2,
+                        "parents": [
+                            1
+                        ],
+                        "children": [
+                            9,
+                            10
+                        ],
+                        "field": -0.5,
+                        "id": "4",
+                        "value": 4,
+                        "name": "4"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 2,
+                        "parents": [
+                            2
+                        ],
+                        "children": [
+                            11,
+                            12
+                        ],
+                        "field": -0.5,
+                        "id": "5",
+                        "value": 5,
+                        "name": "5"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 2,
+                        "parents": [
+                            2
+                        ],
+                        "children": [
+                            13,
+                            14
+                        ],
+                        "field": -0.5,
+                        "id": "6",
+                        "value": 6,
+                        "name": "6"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 3,
+                        "parents": [
+                            3
+                        ],
+                        "children": [
+                            15,
+                            16
+                        ],
+                        "field": -0.5,
+                        "id": "7",
+                        "value": 7,
+                        "name": "7"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 3,
+                        "parents": [
+                            3
+                        ],
+                        "children": [
+                            17,
+                            18
+                        ],
+                        "field": -0.5,
+                        "id": "8",
+                        "value": 8,
+                        "name": "8"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 3,
+                        "parents": [
+                            4
+                        ],
+                        "children": [
+                            19,
+                            20
+                        ],
+                        "field": -0.5,
+                        "id": "9",
+                        "value": 9,
+                        "name": "9"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 3,
+                        "parents": [
+                            4
+                        ],
+                        "children": [
+                            21,
+                            22
+                        ],
+                        "field": -0.5,
+                        "id": "10",
+                        "value": 10,
+                        "name": "10"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 3,
+                        "parents": [
+                            5
+                        ],
+                        "children": [
+                            23,
+                            24
+                        ],
+                        "field": -0.5,
+                        "id": "11",
+                        "value": 11,
+                        "name": "11"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 3,
+                        "parents": [
+                            5
+                        ],
+                        "children": [
+                            25,
+                            26
+                        ],
+                        "field": -0.5,
+                        "id": "12",
+                        "value": 12,
+                        "name": "12"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 3,
+                        "parents": [
+                            6
+                        ],
+                        "children": [
+                            27,
+                            28
+                        ],
+                        "field": -0.5,
+                        "id": "13",
+                        "value": 13,
+                        "name": "13"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 3,
+                        "parents": [
+                            6
+                        ],
+                        "children": [
+                            29,
+                            30
+                        ],
+                        "field": -0.5,
+                        "id": "14",
+                        "value": 14,
+                        "name": "14"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            7
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "15",
+                        "value": 15,
+                        "name": "15"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            7
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "16",
+                        "value": 16,
+                        "name": "16"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            8
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "17",
+                        "value": 17,
+                        "name": "17"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            8
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "18",
+                        "value": 18,
+                        "name": "18"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            9
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "19",
+                        "value": 19,
+                        "name": "19"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            9
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "20",
+                        "value": 20,
+                        "name": "20"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            10
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "21",
+                        "value": 21,
+                        "name": "21"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            10
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "22",
+                        "value": 22,
+                        "name": "22"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            11
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "23",
+                        "value": 23,
+                        "name": "23"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            11
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "24",
+                        "value": 24,
+                        "name": "24"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            12
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "25",
+                        "value": 25,
+                        "name": "25"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            12
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "26",
+                        "value": 26,
+                        "name": "26"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            13
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "27",
+                        "value": 27,
+                        "name": "27"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            13
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "28",
+                        "value": 28,
+                        "name": "28"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            14
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "29",
+                        "value": 29,
+                        "name": "29"
+                    }
+                },
+                {
+                    "data": {
+                        "depth": 4,
+                        "parents": [
+                            14
+                        ],
+                        "children": [],
+                        "field": -0.5,
+                        "id": "30",
+                        "value": 30,
+                        "name": "30"
+                    }
+                }
+            ],
+            "edges": [
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 0,
+                        "target": 1
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 0,
+                        "target": 2
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 1,
+                        "target": 3
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 1,
+                        "target": 4
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 2,
+                        "target": 5
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 2,
+                        "target": 6
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 3,
+                        "target": 7
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 3,
+                        "target": 8
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 3,
+                        "target": 4
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 4,
+                        "target": 9
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 4,
+                        "target": 10
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 4,
+                        "target": 3
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 5,
+                        "target": 11
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 5,
+                        "target": 12
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 6,
+                        "target": 13
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 6,
+                        "target": 14
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 7,
+                        "target": 15
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 7,
+                        "target": 16
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 7,
+                        "target": 8
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 8,
+                        "target": 17
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 8,
+                        "target": 18
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 8,
+                        "target": 7
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 9,
+                        "target": 19
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 9,
+                        "target": 20
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 10,
+                        "target": 21
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 10,
+                        "target": 22
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 11,
+                        "target": 23
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 11,
+                        "target": 24
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 12,
+                        "target": 25
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 12,
+                        "target": 26
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 13,
+                        "target": 27
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 13,
+                        "target": 28
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 13,
+                        "target": 14
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 14,
+                        "target": 29
+                    }
+                },
+                {
+                    "data": {
+                        "weight": 1.0,
+                        "source": 14,
+                        "target": 30
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 14,
+                        "target": 13
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 15,
+                        "target": 16
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 16,
+                        "target": 15
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 23,
+                        "target": 24
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 24,
+                        "target": 23
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 29,
+                        "target": 30
+                    }
+                },
+                {
+                    "data": {
+                        "weight": -1.0,
+                        "source": 30,
+                        "target": 29
+                    }
+                }
+            ]
+        }
+    },
+    "state": "[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",
+    "updated": "[true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true]",
+    "dist": "nbinom",
+    "geneseqparam": "[[64, 0.2064516129032258], [64, 0.3699421965317919], [64, 0.39263803680981596], [64, 0.5871559633027523], [64, 0.5423728813559322], [64, 0.6095238095238096], [64, 0.6153846153846154], [64, 0.7529411764705882], [64, 0.8], [64, 0.6881720430107527], [64, 0.8311688311688312], [64, 0.8311688311688312], [64, 0.7804878048780488], [64, 0.7804878048780488], [64, 0.7529411764705882], [64, 0.8888888888888888], [64, 0.9014084507042254], [64, 0.8888888888888888], [64, 0.9411764705882353], [64, 0.8767123287671232], [64, 0.8533333333333334], [64, 0.8767123287671232], [64, 0.8311688311688312], [64, 0.8421052631578947], [64, 0.8888888888888888], [64, 0.9411764705882353], [64, 0.9142857142857143], [64, 0.8648648648648649], [64, 0.8767123287671232], [64, 0.8767123287671232], [64, 0.9014084507042254]]"
+}
